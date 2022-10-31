@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Preet.
+- 👀 I’m interested in Database, Data & Computing.
+- 📫 Connect me on [twitter](https://twitter.com/preetmungara "say hi!").
